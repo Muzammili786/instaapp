@@ -1,0 +1,16 @@
+.navbar{
+    padding: 0;
+    border-bottom: 1px solid gray;
+}
+.arro{
+    font-size: large;
+}
+.navbar-brand{
+    font-family: 'Brush Script Mt', Brush Script , std;
+    font-size: 40px;
+}
+.timeline {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 0px;
+  }

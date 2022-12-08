@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.coment{
+    margin-top: 50px;
+}
+.naav{
+    color: white;
+    border-bottom: 1px solid gray;
+}
+.navbar-brand {
+    color: white;
+}

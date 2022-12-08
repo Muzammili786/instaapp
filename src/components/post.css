@@ -1,0 +1,40 @@
+
+.post {
+    background-color:black;
+    color: white;
+    border: 1px solid black;
+    margin-bottom: 1px;
+  }
+  .post__image {
+    width: 100%;
+    object-fit: contain;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+  }
+  .post__text {
+    font-weight: normal;
+    padding: 15px 20px;
+  }
+  .pst{
+    padding-bottom: 20px;
+  }
+ 
+  .post__header {
+    display: flex;
+    /* justify-content: flex-start; */
+    padding-top: 15px;
+    padding-left: 12px;
+  }
+  .post__avatar {
+    margin-right: 10px;
+  }
+  .heart{
+    margin-left: 20px;
+  }
+  .post__header p{
+    margin-top: 20px;
+    margin-left: -120px;
+  }
+  .form-control {
+    background-color: black;
+  }

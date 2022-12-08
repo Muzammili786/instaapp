@@ -1,0 +1,38 @@
+
+.comment {
+    background-color:black;
+    color: white;
+    border: 1px solid black;
+    margin-bottom: 1px;
+  }
+  .comment__image {
+    width: 100%;
+    object-fit: contain;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+  }
+  .comment__text {
+    font-weight: normal;
+    padding: 15px 20px;
+  }
+  .comment{
+    padding-bottom: 20px;
+  }
+ 
+  .comment__header {
+    display: flex;
+    /* justify-content: flex-start; */
+    padding-top: 15px;
+    padding-left: 12px;
+  }
+  .comment__avatar {
+    margin-right: 10px;
+  }
+  .heart{
+    margin-left: 20px;
+  }
+  .comment__header p{
+    margin-top: 20px;
+    margin-left: -120px;
+  }
+ 
